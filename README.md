@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vikas chhimpa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate .NET Developer from India, building scalable web solutions</h3>
 
 - 🔭 I’m currently working on [Haryana State Cycling Association](https://hsca.co.in/)
 
